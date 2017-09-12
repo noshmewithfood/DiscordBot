@@ -1,3 +1,0 @@
-# DiscordBot
-DiscordBot
-lol
